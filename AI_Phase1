@@ -1,0 +1,13 @@
+NAAN MUDHALVAN PROJECT 4
+Topic : Measure Energy Consumption
+Problem Definition:
+Develop a software program to accurately measure and monitor energy consumption in residential and commercial buildings, providing real-time and historical data to enable energy efficiency improvements and cost savings.
+Design Thinking:
+Building a script to automate data collection, analysis, and visualization processes involves several steps and the use of appropriate programming languages and libraries. Here's a general guideline on how to create such a script:
+Choose a Programming Language:
+Select a programming language that is suitable for your task and the libraries available for data manipulation, analysis, and visualization. Python is a popular choice for these tasks due to its extensive ecosystem of libraries (e.g., pandas, NumPy, Matplotlib, Seaborn, Plotly) and ease of use. Other languages like R, Julia, or JavaScript may also be suitable depending on your specific needs.
+Define the Workflow:
+Clearly define the workflow of your automation script. Break it down into distinct stages: data collection, data preprocessing, analysis, and visualization.
+Data Source:
+Identify the data sources (e.g., APIs, databases, CSV files) from which you will collect data. Write code to programmatically fetch or import data from these sources.
+Consider scheduling data collection tasks using tools like cron jobs or Python schedulers to automate periodic data updates.
